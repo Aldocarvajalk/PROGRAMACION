@@ -6,7 +6,7 @@
 
 **Correo electronico de contacto:** aldo.carvajal.klinger@utelvt.edu.ec
 
-En el siguiente link podran ver la primera actividad que fue un video en el que hable un poco sobre: [INTRODUCCION DE LA COMPUTADORA Y LENGUAJES DE PROGRAMACION] (https://youtu.be/GtDLi1HrmG8)
+En el siguiente link podran ver la primera actividad que fue un video en el que hable un poco sobre: [INTRODUCCION DE LA COMPUTADORA Y LENGUAJES DE PROGRAMACION] (https://youtu.be/GtDLi1HrmG8) y tambien en este otro link podran ver como se usan los comandos basicos en termux (la version que se asemeja a linux en android) (https://youtu.be/M4nSfRYKrtg)
 
 ## **A CONTINUACION SE MOSTRARAN LOS PROGRAMAS QUE HE DESARROLLADO:**
 
