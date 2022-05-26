@@ -8,11 +8,11 @@
 
 En el siguiente link podran ver la primera actividad que fue un video en el que hable un poco sobre: [INTRODUCCION DE LA COMPUTADORA Y LENGUAJES DE PROGRAMACION] (https://youtu.be/GtDLi1HrmG8)
 
-## **PROGRAMAS QUE EH  DESARROLLADO:**
+## **A CONTINUACION SE MOSTRARAN LOS PROGRAMAS QUE HE DESARROLLADO:**
 
 ### COMPARACIÓN DE DOS NÚMEROS
 
-#### Descripcion del problema
+#### Descripción del problema
 Con la ayuda de este programa en C++ eh ingresando dos números, podremos saber cual  de los dos números es mayor al otro o si ambos son iguales.
 
 
@@ -29,7 +29,7 @@ if(CA_A<CA_B) a es el mayor.
 
 ### CALCULA LA CANTIDAD DE MONEDAS 
 
-#### Descripcion del problema
+#### Descripción del problema
 Con la ayuda de este programa en C++ podremos saber cuantas monedas de 2 denominaciones hemos ingresado (0.10 ctvs y 0.25 ctvs) asi como tambien nos mostrara la suma total de todas las monedas y la suma independiente de cada denominacion por separado.
 
 #### Funcionalidad
@@ -47,7 +47,7 @@ while(CA_c<CA_n);  El total de dinero ingresado.
 ### CALCULA LA EDAD DE UNA PERSONA 
  
 
-#### Descripcion del problema
+#### Descripción del problema
 Con la ayuda de este programa en C++ podremos saber cuantos años tiene una persona ingresando su: día, mes y año de nacimiento. Este programa aparte de calcular los años que tiene una persona tambien nos muestra los días y meses que tiene.
 
 #### Funcionalidad
@@ -62,8 +62,8 @@ if(CA_ma<CA_mn)    La edad de la persona.
 
 ### PUNTO DE VENTA
 
-#### Descripcion del problema
-Programa en c++ y Diagrama de flujo, permite ingresar los precios de los diferentes productos y calcular el IVA a pagar, el descuento y el monto final a pagar y mostrará el valor total, el valor del IVA, el valor descontado y el número del pago final.
+#### Descripción del problema
+Con la ayuda de este programa en C++ ingresando diferentes precios de productos nos ayuda a calcular el iva a pagar, el descuento y el total a pagar. Al momento de pagar el monto total mostrara el iva que debera pagar la persona, el descuento total de su compra y el precio final.
 
 #### Funcionalidad
 
@@ -79,7 +79,7 @@ CA_vt=CA_A+CA_Piva-CA_Pdsc       valor final a pagar
 
 ### SUMA DE DOS NÚMEROS
 
-#### Descripcion del problema
+#### Descripción del problema
 Con la ayuda de este programa en C++ se suman varios números el cual el usuario debera ingresar y este le mostrara la suma total. 
 
 #### Funcionalidad
@@ -98,4 +98,15 @@ while(CA_c<CA_n)       el resultado de la suma total
 
 1.- clonar el repositorio en la máquina local.
 
-git clone 
+git clone https://github.com/Aldocarvajalk/PROGRAMACION.git
+
+"cd" más el nombre de la carpeta que vizualisan en mi repositorio de github.
+
+
+### COMPILAR Y EJECUTAR
+
+g++ CarvajalAldo-SumaN.cpp -o CarvajalAldo-SumaN
+
+./CarvajalAldo-SumaN
+
+**(Estos pasos son en base al uso de la aplicacion termux o el uso del sistema operativo linux)**
