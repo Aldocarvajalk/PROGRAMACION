@@ -1,6 +1,6 @@
 # **PROGRAMAS EN C++ DE CARVAJAL ALDO**
 
-## **INFORMACION PERSONAL**
+## **INFORMACIÓN PERSONAL**
 
 **Nombres:** *CARVAJAL ALDO*
 
@@ -8,7 +8,7 @@
 
 En el siguiente link podran ver la primera actividad que fue un video en el que hable un poco sobre: [INTRODUCCION DE LA COMPUTADORA Y LENGUAJES DE PROGRAMACION] (https://youtu.be/GtDLi1HrmG8) 
 
-## **A CONTINUACION SE MOSTRARAN LOS PROGRAMAS QUE HE DESARROLLADO:**
+## **A CONTINUACIÓN SE MOSTRARAN LOS PROGRAMAS QUE HE DESARROLLADO:**
 
 ### COMPARACIÓN DE DOS NÚMEROS
 
@@ -109,4 +109,4 @@ g++ CarvajalAldo-SumaN.cpp -o CarvajalAldo-SumaN
 
 ./CarvajalAldo-SumaN
 
-**(Estos pasos son en base al uso de la aplicacion termux o el uso del sistema operativo linux)**
+**(Estos pasos son en base al uso de la aplicación termux o el uso del sistema operativo linux)**
