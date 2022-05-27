@@ -75,6 +75,8 @@ float CA_A=0,CA_x,CA_Tb,CA_Piva,CA_Pdsc,CA_iva=0.12,CA_dsc=0.30,CA_vt;
 
 while(CA_c<CA_P)
 
+if(CA_Tb==CA_A)
+
 CA_vt=CA_A+CA_Piva-CA_Pdsc       valor final a pagar
 
 ### SUMA DE DOS NÚMEROS
