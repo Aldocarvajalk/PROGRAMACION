@@ -26,6 +26,7 @@ int main()
 		CA_a2=CA_a2+CA_x;
 	}
 	}while(CA_c<CA_n);
+
 	cout<<"El resultado es : "<<endl;
 	cout<<"Cantidad de monedas ingresadas : "<<CA_c<<endl;
 	cout<<"El total del dinero contado es de : "<<CA_a<<endl;
