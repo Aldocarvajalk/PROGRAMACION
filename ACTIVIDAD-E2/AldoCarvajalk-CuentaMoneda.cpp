@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 	int CA_n, CA_c=0, CA_c1=0, CA_c2=0;
-	float CA_x, CA_a=0, CA_a1=0, CA_a2=0;
+	float CA_x, CA_a=0, CA_a1=0, CA_a2=0, CA_m=0.10;
 	cout<<"Ingrese la cantida de monedas: ";
 	cin>>CA_n;
 	do{
@@ -17,7 +17,7 @@ int main()
 	cin>>CA_x;
 	CA_c=CA_c+1;
 	CA_a=CA_a+CA_x;
-	if(CA_x==0.10){
+	if(CA_x==CA_m){
 
 		CA_c1=CA_c1+1;
 		CA_a1=CA_a1+CA_x;
@@ -32,13 +32,15 @@ int main()
 	cout<<"Monedas ingresadas de 0.10 ctvos es de :"<<CA_c1<<endl;
 	cout<<"Cantidad total de monedas de 0.10 ctvos es de : "<<CA_a1<<endl;
 	cout<<"Monedas ingresadas de 0.25 ctvos es de : "<<CA_c2<<endl;
-	cout<<"Cantidad total de monedas de 0.25 ctvos es de : "<<CA_a2<<endl;
+	cout<<"Cantidad total de monedas de 0.25 ctvos es de : "<<CA_a2<<endl<<endl;
 
+cout<<"//================================================"<<endl;
 cout<<"//=======Nombre del programa: Cuenta Moneda "<<endl;
 cout<<"//====Archivo: AldoCarvajalk-CuebtaMoneda.cpp"<<endl;
 cout<<"//====Autor: Carvajal Aldo"<<endl;
 cout<<"//====Fecha de creacion: 03-05-2022"<<endl;
 cout<<"//====Fecha de ultima actualizacion: 19-05-2022"<<endl;
+cout<<"//================================================"<<endl;
 
 	return (0);
 }
